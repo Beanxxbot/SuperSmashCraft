@@ -1,0 +1,20 @@
+Link:
+  Master Sword ()
+      Model (x)
+      Attack Damage (x)
+      Spin Move ()
+  Hero's Bow ()
+      Model ()
+      Arrows ()
+  Gale Boomerang ()
+      Model ()
+      Throwable ()
+      Wind that Pulls People In ()
+      
+Rosalina
+  Wand ()
+      Model ()
+      Spawn Entity ()
+      Control Entity ()
+    
+    
