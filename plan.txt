@@ -11,10 +11,30 @@ Link:
       Throwable ()
       Wind that Pulls People In ()
       
-Rosalina
+Rosalina:
   Wand ()
       Model ()
-      Spawn Entity ()
+      Spawn Entity & Kill Entity ()
       Control Entity ()
+
+Pit:
+  Bow/Sword ()
+      Keybind to Switch ()
+      Bow Model ()
+      Arrow Model ()
+      Sword Model ()
+      Possible Spin Move in Bow Mode ()
+    
+Mario:
+  Mario's Glove ()
+      Model()
+      Fireball ()
+  Mario's Blanket ()
+      Model ()
+      Spin in opposite Direction ()
+  F.L.O.O.D ()
+      Model ()
+      Wearable ()
+      Useable ()
     
     
